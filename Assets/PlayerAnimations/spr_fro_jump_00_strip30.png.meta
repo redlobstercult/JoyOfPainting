@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 5e544671ee7bdd444949b63904ad2ebe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8627734775221746744
+    second: spr_fro_jump_00_strip30_0
+  - first:
+      213: 6466360962813019598
+    second: spr_fro_jump_00_strip30_1
+  - first:
+      213: -2046633899467874739
+    second: spr_fro_jump_00_strip30_2
+  - first:
+      213: -4632616207672644131
+    second: spr_fro_jump_00_strip30_3
+  - first:
+      213: -8765061712396983397
+    second: spr_fro_jump_00_strip30_4
+  - first:
+      213: -2219739274045622451
+    second: spr_fro_jump_00_strip30_5
+  - first:
+      213: -1861223724841960593
+    second: spr_fro_jump_00_strip30_6
+  - first:
+      213: 1194517296945752897
+    second: spr_fro_jump_00_strip30_7
+  - first:
+      213: 3868534803743547792
+    second: spr_fro_jump_00_strip30_8
+  - first:
+      213: 420420119999804090
+    second: spr_fro_jump_00_strip30_9
+  - first:
+      213: -3260184478092285524
+    second: spr_fro_jump_00_strip30_10
+  - first:
+      213: 5172365760371956427
+    second: spr_fro_jump_00_strip30_11
+  - first:
+      213: 7357428775281031471
+    second: spr_fro_jump_00_strip30_12
+  - first:
+      213: -108833486962808140
+    second: spr_fro_jump_00_strip30_13
+  - first:
+      213: 5064275237087981911
+    second: spr_fro_jump_00_strip30_14
+  - first:
+      213: -1343908634858597169
+    second: spr_fro_jump_00_strip30_15
+  - first:
+      213: -9070435972768622558
+    second: spr_fro_jump_00_strip30_16
+  - first:
+      213: 8412745024119333105
+    second: spr_fro_jump_00_strip30_17
+  - first:
+      213: 1185625589147053970
+    second: spr_fro_jump_00_strip30_18
+  - first:
+      213: -7575065246691038356
+    second: spr_fro_jump_00_strip30_19
+  - first:
+      213: 2893135348571797498
+    second: spr_fro_jump_00_strip30_20
+  - first:
+      213: -2622442869559659515
+    second: spr_fro_jump_00_strip30_21
+  - first:
+      213: -8794520705539137152
+    second: spr_fro_jump_00_strip30_22
+  - first:
+      213: 5823933405193908545
+    second: spr_fro_jump_00_strip30_23
+  - first:
+      213: 3099208173894591231
+    second: spr_fro_jump_00_strip30_24
+  - first:
+      213: -5626724001547882455
+    second: spr_fro_jump_00_strip30_25
+  - first:
+      213: 4775153499725229542
+    second: spr_fro_jump_00_strip30_26
+  - first:
+      213: -4563798399200957965
+    second: spr_fro_jump_00_strip30_27
+  - first:
+      213: -5034846323737374994
+    second: spr_fro_jump_00_strip30_28
+  - first:
+      213: 7793792466707180327
+    second: spr_fro_jump_00_strip30_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 12
+        width: 121
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c38f920fe0244880800000000000000
+      internalID: -8627734775221746744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 12
+        width: 127
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec54ce119012db950800000000000000
+      internalID: 6466360962813019598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_2
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 12
+        width: 113
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ed1fcdf45e893e0800000000000000
+      internalID: -2046633899467874739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 7
+        width: 112
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd64f09a14a5bfb0800000000000000
+      internalID: -4632616207672644131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_4
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 7
+        width: 108
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b936336dfce3c5680800000000000000
+      internalID: -8765061712396983397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_5
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 7
+        width: 103
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f68414e6e131e0800000000000000
+      internalID: -2219739274045622451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_6
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 21
+        width: 104
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bf34922ea9b26e0800000000000000
+      internalID: -1861223724841960593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_7
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 21
+        width: 103
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14be28a1727c39010800000000000000
+      internalID: 1194517296945752897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_8
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 17
+        width: 99
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091ae5a58ebcfa530800000000000000
+      internalID: 3868534803743547792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_9
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 16
+        width: 93
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2f3052fd1a5d500800000000000000
+      internalID: 420420119999804090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_10
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 12
+        width: 94
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca921198d7f71c2d0800000000000000
+      internalID: -3260184478092285524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_11
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 12
+        width: 89
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca1d53314fe7c740800000000000000
+      internalID: 5172365760371956427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_12
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 12
+        width: 94
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29fcd26d76da1660800000000000000
+      internalID: 7357428775281031471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_13
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 12
+        width: 98
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba2aed25885d7ef0800000000000000
+      internalID: -108833486962808140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_14
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 12
+        width: 94
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751bf671f7be74640800000000000000
+      internalID: 5064275237087981911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_15
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 12
+        width: 94
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc45ca8873a795de0800000000000000
+      internalID: -1343908634858597169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_16
+      rect:
+        serializedVersion: 2
+        x: 5187
+        y: 12
+        width: 93
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228933d3a865f1280800000000000000
+      internalID: -9070435972768622558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_17
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 16
+        width: 94
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0619cd60310c470800000000000000
+      internalID: 8412745024119333105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_18
+      rect:
+        serializedVersion: 2
+        x: 5829
+        y: 16
+        width: 94
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f29bd0130347010800000000000000
+      internalID: 1185625589147053970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_19
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 21
+        width: 94
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be294ea46ffd690800000000000000
+      internalID: -7575065246691038356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_20
+      rect:
+        serializedVersion: 2
+        x: 6471
+        y: 21
+        width: 94
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77fb2654b762820800000000000000
+      internalID: 2893135348571797498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_21
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 26
+        width: 96
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504f32cba163b9bd0800000000000000
+      internalID: -2622442869559659515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_22
+      rect:
+        serializedVersion: 2
+        x: 7109
+        y: 26
+        width: 98
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a580830693f580800000000000000
+      internalID: -8794520705539137152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_23
+      rect:
+        serializedVersion: 2
+        x: 7427
+        y: 26
+        width: 99
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413d145394c2d050800000000000000
+      internalID: 5823933405193908545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_24
+      rect:
+        serializedVersion: 2
+        x: 7746
+        y: 26
+        width: 99
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff269f1f969920b20800000000000000
+      internalID: 3099208173894591231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_25
+      rect:
+        serializedVersion: 2
+        x: 8065
+        y: 12
+        width: 94
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920f29e055cd9e1b0800000000000000
+      internalID: -5626724001547882455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_26
+      rect:
+        serializedVersion: 2
+        x: 8375
+        y: 7
+        width: 112
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede513eec0c44240800000000000000
+      internalID: 4775153499725229542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_27
+      rect:
+        serializedVersion: 2
+        x: 8698
+        y: 7
+        width: 107
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9612539812aa0c0800000000000000
+      internalID: -4563798399200957965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_28
+      rect:
+        serializedVersion: 2
+        x: 9026
+        y: 7
+        width: 103
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeec3feb1f1a02ab0800000000000000
+      internalID: -5034846323737374994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_jump_00_strip30_29
+      rect:
+        serializedVersion: 2
+        x: 9340
+        y: 12
+        width: 112
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b623784fc192c60800000000000000
+      internalID: 7793792466707180327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

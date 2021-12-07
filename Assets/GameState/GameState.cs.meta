@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a1a05f6b5569564fae3806cd36acea2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _scoreText: {fileID: 1713799033434808645, guid: 7837c884f092f2c4f842c2159240e440, type: 3}
+  - _gameOverText: {fileID: 1630123921322694971, guid: 346c28a2b072cb543b0912e4ae1d40c2, type: 3}
+  - _highScoreText: {fileID: 1713799033434808645, guid: 7837c884f092f2c4f842c2159240e440, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

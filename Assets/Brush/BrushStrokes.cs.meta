@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 100ee95f32de56649ac559eec1969478
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _brushPrefab: {fileID: 216925897422020588, guid: 1b2e21e27a7d75e4a99fc657388cc97b, type: 3}
+  - _brushSpawner: {fileID: 100795585790261885, guid: 98c78d3e0c393ab4b9ee2e85f402b06e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

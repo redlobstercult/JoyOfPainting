@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 546feb057287e0340ad7bac7ee70e69c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -347262932389586563
+    second: spr_fro_idle_00_strip41_0
+  - first:
+      213: -4984424188729676068
+    second: spr_fro_idle_00_strip41_1
+  - first:
+      213: -2371782416776050789
+    second: spr_fro_idle_00_strip41_2
+  - first:
+      213: -3855731015572643436
+    second: spr_fro_idle_00_strip41_3
+  - first:
+      213: -5278112016113532243
+    second: spr_fro_idle_00_strip41_4
+  - first:
+      213: 9193031935856607268
+    second: spr_fro_idle_00_strip41_5
+  - first:
+      213: 6036719701706325280
+    second: spr_fro_idle_00_strip41_6
+  - first:
+      213: -2235754582605687271
+    second: spr_fro_idle_00_strip41_7
+  - first:
+      213: 6585206132314045913
+    second: spr_fro_idle_00_strip41_8
+  - first:
+      213: 2867466236245494521
+    second: spr_fro_idle_00_strip41_9
+  - first:
+      213: 8450213579108702405
+    second: spr_fro_idle_00_strip41_10
+  - first:
+      213: 6436196481666950715
+    second: spr_fro_idle_00_strip41_11
+  - first:
+      213: -4662963174761987883
+    second: spr_fro_idle_00_strip41_12
+  - first:
+      213: -8272579301755139204
+    second: spr_fro_idle_00_strip41_13
+  - first:
+      213: 5672015901865391733
+    second: spr_fro_idle_00_strip41_14
+  - first:
+      213: 6155129065826219427
+    second: spr_fro_idle_00_strip41_15
+  - first:
+      213: -8815834635611158495
+    second: spr_fro_idle_00_strip41_16
+  - first:
+      213: -6349794305424423638
+    second: spr_fro_idle_00_strip41_17
+  - first:
+      213: 6143962703412607484
+    second: spr_fro_idle_00_strip41_18
+  - first:
+      213: -8026537245504852149
+    second: spr_fro_idle_00_strip41_19
+  - first:
+      213: 8425648382470019974
+    second: spr_fro_idle_00_strip41_20
+  - first:
+      213: 1582896533023297582
+    second: spr_fro_idle_00_strip41_21
+  - first:
+      213: -624566581051736982
+    second: spr_fro_idle_00_strip41_22
+  - first:
+      213: 307693930740452651
+    second: spr_fro_idle_00_strip41_23
+  - first:
+      213: 6139504998710653637
+    second: spr_fro_idle_00_strip41_24
+  - first:
+      213: -8799093038707094800
+    second: spr_fro_idle_00_strip41_25
+  - first:
+      213: 5795292711659165360
+    second: spr_fro_idle_00_strip41_26
+  - first:
+      213: 8717202946235548616
+    second: spr_fro_idle_00_strip41_27
+  - first:
+      213: -6222614514711904031
+    second: spr_fro_idle_00_strip41_28
+  - first:
+      213: -4677637484195205791
+    second: spr_fro_idle_00_strip41_29
+  - first:
+      213: 329409188679812253
+    second: spr_fro_idle_00_strip41_30
+  - first:
+      213: 3935454966893122575
+    second: spr_fro_idle_00_strip41_31
+  - first:
+      213: 8862543719251698613
+    second: spr_fro_idle_00_strip41_32
+  - first:
+      213: 8141927596876394062
+    second: spr_fro_idle_00_strip41_33
+  - first:
+      213: 6086533102086533012
+    second: spr_fro_idle_00_strip41_34
+  - first:
+      213: 3073416207856736935
+    second: spr_fro_idle_00_strip41_35
+  - first:
+      213: -4688847761345016945
+    second: spr_fro_idle_00_strip41_36
+  - first:
+      213: -676105497478134754
+    second: spr_fro_idle_00_strip41_37
+  - first:
+      213: 7217621062881669403
+    second: spr_fro_idle_00_strip41_38
+  - first:
+      213: -8897060341643737634
+    second: spr_fro_idle_00_strip41_39
+  - first:
+      213: -4451640613526650618
+    second: spr_fro_idle_00_strip41_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79124fe3364e2bf0800000000000000
+      internalID: -347262932389586563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde27e4eb94c3dab0800000000000000
+      internalID: -4984424188729676068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_2
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97cb8b457cb51fd0800000000000000
+      internalID: -2371782416776050789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_3
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4912653e111bd7ac0800000000000000
+      internalID: -3855731015572643436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da205d2061160c6b0800000000000000
+      internalID: -5278112016113532243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_5
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4200e81c6d5349f70800000000000000
+      internalID: 9193031935856607268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_6
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dbec4b59cb6c350800000000000000
+      internalID: 6036719701706325280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_7
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91616da7d0109f0e0800000000000000
+      internalID: -2235754582605687271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_8
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7d41661a536b50800000000000000
+      internalID: 6585206132314045913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_9
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fac6d079594bc720800000000000000
+      internalID: 2867466236245494521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_10
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d4f2aa70354570800000000000000
+      internalID: 8450213579108702405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_11
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36a0628996f15950800000000000000
+      internalID: 6436196481666950715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_12
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0859fa2b3d94fb0800000000000000
+      internalID: -4662963174761987883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_13
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 10
+        width: 129
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bc2ae74f4e13d80800000000000000
+      internalID: -8272579301755139204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_14
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 10
+        width: 127
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576bd0f396c07be40800000000000000
+      internalID: 5672015901865391733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_15
+      rect:
+        serializedVersion: 2
+        x: 4854
+        y: 10
+        width: 127
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5f04b26496b6550800000000000000
+      internalID: 6155129065826219427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_16
+      rect:
+        serializedVersion: 2
+        x: 5174
+        y: 10
+        width: 127
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128cfc17b1dd7a580800000000000000
+      internalID: -8815834635611158495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_17
+      rect:
+        serializedVersion: 2
+        x: 5494
+        y: 10
+        width: 127
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25016cc8bff0e7a0800000000000000
+      internalID: -6349794305424423638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_18
+      rect:
+        serializedVersion: 2
+        x: 5814
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf93822d68db34550800000000000000
+      internalID: 6143962703412607484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_19
+      rect:
+        serializedVersion: 2
+        x: 6134
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fad31d6e20c9090800000000000000
+      internalID: -8026537245504852149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_20
+      rect:
+        serializedVersion: 2
+        x: 6455
+        y: 10
+        width: 127
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b5877109aede470800000000000000
+      internalID: 8425648382470019974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_21
+      rect:
+        serializedVersion: 2
+        x: 6775
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e201d0f920497f510800000000000000
+      internalID: 1582896533023297582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_22
+      rect:
+        serializedVersion: 2
+        x: 7095
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cb4dde0081557f0800000000000000
+      internalID: -624566581051736982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_23
+      rect:
+        serializedVersion: 2
+        x: 7415
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d0451fff5254400800000000000000
+      internalID: 307693930740452651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_24
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c232e09447e33550800000000000000
+      internalID: 6139504998710653637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_25
+      rect:
+        serializedVersion: 2
+        x: 8056
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa404a308753e580800000000000000
+      internalID: -8799093038707094800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_26
+      rect:
+        serializedVersion: 2
+        x: 8376
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6dad734040d6050800000000000000
+      internalID: 5795292711659165360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_27
+      rect:
+        serializedVersion: 2
+        x: 8697
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3cb55d4e9b9f870800000000000000
+      internalID: 8717202946235548616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_28
+      rect:
+        serializedVersion: 2
+        x: 9017
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e048645115d4a9a0800000000000000
+      internalID: -6222614514711904031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_29
+      rect:
+        serializedVersion: 2
+        x: 9337
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d2e76cd71b51fb0800000000000000
+      internalID: -4677637484195205791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_30
+      rect:
+        serializedVersion: 2
+        x: 9657
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94820d69eb429400800000000000000
+      internalID: 329409188679812253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_31
+      rect:
+        serializedVersion: 2
+        x: 9978
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f041633017b8d9630800000000000000
+      internalID: 3935454966893122575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_32
+      rect:
+        serializedVersion: 2
+        x: 10298
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3ed509e841efa70800000000000000
+      internalID: 8862543719251698613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_33
+      rect:
+        serializedVersion: 2
+        x: 10616
+        y: 10
+        width: 130
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e64c6f200fdf070800000000000000
+      internalID: 8141927596876394062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_34
+      rect:
+        serializedVersion: 2
+        x: 10934
+        y: 10
+        width: 133
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f2687cb95b77450800000000000000
+      internalID: 6086533102086533012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_35
+      rect:
+        serializedVersion: 2
+        x: 11253
+        y: 10
+        width: 134
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa9a34e1c7f6aa20800000000000000
+      internalID: 3073416207856736935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_36
+      rect:
+        serializedVersion: 2
+        x: 11573
+        y: 10
+        width: 134
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b052bbdcdddeeb0800000000000000
+      internalID: -4688847761345016945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_37
+      rect:
+        serializedVersion: 2
+        x: 11894
+        y: 10
+        width: 133
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148028d1adfd96f0800000000000000
+      internalID: -676105497478134754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_38
+      rect:
+        serializedVersion: 2
+        x: 12214
+        y: 10
+        width: 133
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b117078bd142a2460800000000000000
+      internalID: 7217621062881669403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_39
+      rect:
+        serializedVersion: 2
+        x: 12534
+        y: 10
+        width: 131
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed50c1702ca478480800000000000000
+      internalID: -8897060341643737634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fro_idle_00_strip41_40
+      rect:
+        serializedVersion: 2
+        x: 12854
+        y: 10
+        width: 128
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601ca03a2789832c0800000000000000
+      internalID: -4451640613526650618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
